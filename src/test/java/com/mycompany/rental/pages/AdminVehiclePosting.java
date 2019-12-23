@@ -55,19 +55,23 @@ public class AdminVehiclePosting {
 		return driver.findElement(By.xpath("//input[@name='seatingcapacity']"));
 	}
 	
-	// Upload images
+	// Upload image1 into the image column
 	public WebElement getUploadimage1() {
 		return driver.findElement(By.xpath("//input[@name='img1']"));
 	}
+	//  Upload image2 into the image column
 	public WebElement getUploadimage2() {
 		return driver.findElement(By.xpath("//input[@name='img2']"));
 	}
+	//  Upload image3 into the image column
 	public WebElement getUploadimage3() {
 		return driver.findElement(By.xpath("//input[@name='img3']"));
 	}
+	// Upload image4 into the image column
 	public WebElement getUploadimage4() {
 		return driver.findElement(By.xpath("//input[@name='img4']"));
 	}
+	// Upload image5 into the image column
 	public WebElement getUploadimage5() {
 		return driver.findElement(By.xpath("//input[@name='img5']"));
 	}

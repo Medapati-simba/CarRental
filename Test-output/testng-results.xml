@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12855" started-at="2019-12-20T12:35:19 IST" finished-at="2019-12-20T12:35:32 IST">
+  <suite name="Default suite" duration-ms="16036" started-at="2019-12-23T11:24:45 IST" finished-at="2019-12-23T11:25:02 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12855" started-at="2019-12-20T12:35:19 IST" finished-at="2019-12-20T12:35:32 IST">
-      <class name="com.mycompany.rental.regression.AdminBrands">
-        <test-method status="PASS" signature="Adminsignin()[pri:0, instance:com.mycompany.rental.regression.AdminBrands@731a74c]" name="Adminsignin" duration-ms="12797" started-at="2019-12-20T12:35:19 IST" finished-at="2019-12-20T12:35:32 IST">
+    <test name="Default test" duration-ms="16036" started-at="2019-12-23T11:24:45 IST" finished-at="2019-12-23T11:25:02 IST">
+      <class name="com.mycompany.rental.regression.AdminListedBrands">
+        <test-method status="PASS" signature="adminListedBrands()[pri:0, instance:com.mycompany.rental.regression.AdminListedBrands@45ca843]" name="adminListedBrands" duration-ms="16011" started-at="2019-12-23T11:24:45 IST" finished-at="2019-12-23T11:25:01 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Adminsignin -->
-      </class> <!-- com.mycompany.rental.regression.AdminBrands -->
+        </test-method> <!-- adminListedBrands -->
+      </class> <!-- com.mycompany.rental.regression.AdminListedBrands -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

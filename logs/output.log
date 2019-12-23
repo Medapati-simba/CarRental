@@ -1,0 +1,172 @@
+17:09:54.387 [main] INFO  log4JProject.Log4JProjectClass - ------------------------------------------------------------------------
+17:09:54.389 [main] INFO  log4JProject.Log4JProjectClass - ---------------------- Admin Post Brand Test ---------------------------
+17:09:54.389 [main] INFO  log4JProject.Log4JProjectClass - ------------------------------------------------------------------------
+17:09:55.164 [main] INFO  log4JProject.Log4JProjectClass - Admin logged in successfully
+17:09:55.344 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on DashboardLink
+17:09:55.586 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on BrandsLink
+17:09:55.803 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on CreateBrandLink
+17:09:55.996 [main] INFO  log4JProject.Log4JProjectClass - Admin input on BrandName
+17:09:56.582 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on Submit button
+17:10:08.694 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------------------------------------------------
+17:10:08.695 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------ListedBrands-----------------------------------
+17:10:08.695 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------------------------------------------------
+17:10:09.706 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Setup
+17:10:10.206 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBoard
+17:10:10.238 [main] INFO  log4JProject.Log4JProjectClass - admin Click on ListedBrands under DashBoard
+17:10:10.468 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Brands Link on navigation
+17:10:10.805 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on ManageBrands link under BrandsLink
+17:10:11.082 [main] INFO  log4JProject.Log4JProjectClass - Got the no. of brands on page1
+17:10:11.443 [main] INFO  log4JProject.Log4JProjectClass - Got the no. of brands on page2
+17:10:26.029 [main] INFO  log4JProject.Log4JProjectClass - -------------------------------------------------------------------------
+17:10:26.029 [main] INFO  log4JProject.Log4JProjectClass - ---------------------ManageBooking---------------------------------------
+17:10:26.029 [main] INFO  log4JProject.Log4JProjectClass - -------------------------------------------------------------------------
+17:10:26.508 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Into application
+17:10:26.679 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Dashboard
+17:10:26.712 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Total Bookings
+17:10:26.980 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on ManageBookings Link on Navigation
+17:10:27.074 [main] INFO  log4JProject.Log4JProjectClass - Admin click on Table List of ManageBookings
+17:10:27.075 [main] INFO  log4JProject.Log4JProjectClass - Admin Comparing results
+17:10:43.153 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------------------
+17:10:43.153 [main] INFO  log4JProject.Log4JProjectClass - --------------------------------- Testimonials -----------------------------------------
+17:10:43.154 [main] INFO  log4JProject.Log4JProjectClass - -----------------------------------------------------------------------------------------
+17:10:43.809 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Setup
+17:10:44.031 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBoard
+17:10:44.065 [main] INFO  log4JProject.Log4JProjectClass - Admin click the Testmonial tab in DashBoard
+17:10:44.422 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on ManageTestmonials in left Navigation
+17:10:44.439 [main] INFO  log4JProject.Log4JProjectClass - Admin Checking both the results
+17:10:57.416 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------------------
+17:10:57.417 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------Subscribers---------------------------------------------
+17:10:57.417 [main] INFO  log4JProject.Log4JProjectClass - -----------------------------------------------------------------------------------------
+17:10:58.403 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Setup
+17:10:58.604 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBoard
+17:10:58.636 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Total subscribers under DashBoard
+17:10:58.873 [main] INFO  log4JProject.Log4JProjectClass - Admin Click Manage subscribers on left navigation
+17:10:58.889 [main] INFO  log4JProject.Log4JProjectClass - Admin get count from subscribers table
+17:10:58.889 [main] INFO  log4JProject.Log4JProjectClass - Admin Comparing Both results
+17:11:16.375 [main] INFO  log4JProject.Log4JProjectClass - -------------------------------------------------------------------------------
+17:11:16.375 [main] INFO  log4JProject.Log4JProjectClass - --------------------------AdminRegisterdUsers----------------------------------
+17:11:16.376 [main] INFO  log4JProject.Log4JProjectClass - -------------------------------------------------------------------------------
+17:11:17.405 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on CarLogin 
+17:11:17.612 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashboardLink 
+17:11:17.657 [main] INFO  log4JProject.Log4JProjectClass - Admin getting list of users 
+17:11:17.937 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on RegUserLink
+17:11:17.958 [main] INFO  log4JProject.Log4JProjectClass - Admin userlist on table 
+17:11:36.270 [main] INFO  log4JProject.Log4JProjectClass - ------------------------------------------------------------------------
+17:11:36.270 [main] INFO  log4JProject.Log4JProjectClass - -------------------- Admin Post Vehicle Test ---------------------------
+17:11:36.270 [main] INFO  log4JProject.Log4JProjectClass - ------------------------------------------------------------------------
+17:11:36.765 [main] INFO  log4JProject.Log4JProjectClass - Admin logged in successfully
+17:11:36.940 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on Dashboard link
+17:11:37.038 [main] INFO  log4JProject.Log4JProjectClass - Admin Clicked on Vehicle Link
+17:11:37.349 [main] INFO  log4JProject.Log4JProjectClass - Admin Clicked on postvehicle Link
+17:11:38.654 [main] INFO  log4JProject.Log4JProjectClass - Admin input on VehicleTitle
+17:11:38.776 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on vehiclebrand
+17:11:38.850 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on Brandname
+17:11:40.011 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on vehicle overview
+17:11:40.107 [main] INFO  log4JProject.Log4JProjectClass - Admin input priceperday
+17:11:40.305 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on fueltype
+17:11:40.384 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on fuelElement
+17:11:40.474 [main] INFO  log4JProject.Log4JProjectClass - Admin input on model Year
+17:11:40.552 [main] INFO  log4JProject.Log4JProjectClass - Admin input on seating capacity
+17:11:40.892 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on Airconditioner
+17:11:40.990 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on powerdoor lock
+17:11:41.077 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on passengerairbag
+17:11:41.155 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on crashcensor
+17:11:41.230 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on leatherseats
+17:11:50.521 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------------------
+17:11:50.521 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------Subscribers---------------------------------------------
+17:11:50.521 [main] INFO  log4JProject.Log4JProjectClass - -----------------------------------------------------------------------------------------
+17:11:51.519 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Setup
+17:11:51.756 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBoard
+17:11:51.793 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on queries tab in DashBoard
+17:11:52.101 [main] INFO  log4JProject.Log4JProjectClass - Admin click on  Manage Conatctus Query tab in left navigation
+17:11:52.124 [main] INFO  log4JProject.Log4JProjectClass - Admin Getting count of total Queries from table
+17:11:52.124 [main] INFO  log4JProject.Log4JProjectClass - Admin matching both the results
+17:12:06.882 [main] INFO  log4JProject.Log4JProjectClass - -----------------------------------------------------------------------------------------------------
+17:12:06.882 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------------------UpdateContacts------------------------------------------
+17:12:06.882 [main] INFO  log4JProject.Log4JProjectClass - -----------------------------------------------------------------------------------------------------
+17:12:07.834 [main] INFO  log4JProject.Log4JProjectClass -  admin Login Setup 
+17:12:08.064 [main] INFO  log4JProject.Log4JProjectClass - Update ContactLink on left Navigation 
+17:12:08.936 [main] INFO  log4JProject.Log4JProjectClass - Admin Address Details 
+17:12:08.997 [main] INFO  log4JProject.Log4JProjectClass - Admin Email Address Details 
+17:12:09.049 [main] INFO  log4JProject.Log4JProjectClass - Admin ContactNumber details 
+17:12:10.061 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Update Button 
+21:12:20.514 [main] INFO  log4JProject.Log4JProjectClass - ------------------------------------------------------------------------
+21:12:20.518 [main] INFO  log4JProject.Log4JProjectClass - ---------------------- Admin Post Brand Test ---------------------------
+21:12:20.518 [main] INFO  log4JProject.Log4JProjectClass - ------------------------------------------------------------------------
+21:12:21.675 [main] INFO  log4JProject.Log4JProjectClass - Admin logged in successfully
+21:12:21.958 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on DashboardLink
+21:12:22.214 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on BrandsLink
+21:12:22.506 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on CreateBrandLink
+21:12:22.575 [main] INFO  log4JProject.Log4JProjectClass - Admin input on BrandName
+21:12:23.297 [main] INFO  log4JProject.Log4JProjectClass - Admin clicked on Submit button
+21:12:38.399 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------------------------------------------------
+21:12:38.399 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------ListedBrands-----------------------------------
+21:12:38.399 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------------------------------------------------
+21:12:39.210 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Setup
+21:12:39.900 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBoard
+21:12:39.959 [main] INFO  log4JProject.Log4JProjectClass - admin Click on ListedBrands under DashBoard
+21:12:40.216 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Brands Link on navigation
+21:12:40.573 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on ManageBrands link under BrandsLink
+21:12:41.152 [main] INFO  log4JProject.Log4JProjectClass - Got the no. of brands on page1
+21:12:41.534 [main] INFO  log4JProject.Log4JProjectClass - Got the no. of brands on page2
+22:32:21.891 [main] INFO  log4JProject.Log4JProjectClass - --------------------------------------------------------------------------
+22:32:21.892 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------ListedVehicles----------------------------
+22:32:21.893 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------
+22:32:23.094 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Details
+22:32:25.523 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBorad link 
+22:32:25.573 [main] INFO  log4JProject.Log4JProjectClass - Admin getting listed vehicle details
+22:32:25.801 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Vehicle Link
+22:32:26.073 [main] INFO  log4JProject.Log4JProjectClass - Admin Clicked on Manage Vehicle Tab
+22:32:26.091 [main] INFO  log4JProject.Log4JProjectClass - Admin Checking List from tables
+22:32:26.091 [main] INFO  log4JProject.Log4JProjectClass - Admin matching both results
+22:40:33.960 [main] INFO  log4JProject.Log4JProjectClass - --------------------------------------------------------------------------
+22:40:33.964 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------ListedVehicles----------------------------
+22:40:33.964 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------
+22:40:34.966 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Details
+22:40:35.140 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBorad link 
+22:40:35.188 [main] INFO  log4JProject.Log4JProjectClass - Admin getting listed vehicle details
+22:40:35.427 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Vehicle Link
+22:40:35.721 [main] INFO  log4JProject.Log4JProjectClass - Admin Clicked on Manage Vehicle Tab
+22:40:35.737 [main] INFO  log4JProject.Log4JProjectClass - Admin Checking List from tables
+22:40:35.737 [main] INFO  log4JProject.Log4JProjectClass - Admin matching both results
+11:03:12.762 [main] INFO  log4JProject.Log4JProjectClass - --------------------------------------------------------------------------
+11:03:12.821 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------ListedVehicles----------------------------
+11:03:12.821 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------
+11:03:13.827 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Details
+11:03:15.765 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBorad link 
+11:03:15.818 [main] INFO  log4JProject.Log4JProjectClass - Admin getting listed vehicle details
+11:03:16.050 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Vehicle Link
+11:03:16.886 [main] INFO  log4JProject.Log4JProjectClass - Admin Clicked on Manage Vehicle Tab
+11:03:16.935 [main] INFO  log4JProject.Log4JProjectClass - Admin Checking List from tables
+11:03:16.936 [main] INFO  log4JProject.Log4JProjectClass - Admin matching both results
+11:04:37.789 [main] INFO  log4JProject.Log4JProjectClass - --------------------------------------------------------------------------
+11:04:37.793 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------ListedVehicles----------------------------
+11:04:37.794 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------
+11:04:38.688 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Details
+11:04:38.903 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBorad link 
+11:04:38.941 [main] INFO  log4JProject.Log4JProjectClass - Admin getting listed vehicle details
+11:04:39.176 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Vehicle Link
+11:04:39.544 [main] INFO  log4JProject.Log4JProjectClass - Admin Clicked on Manage Vehicle Tab
+11:04:39.563 [main] INFO  log4JProject.Log4JProjectClass - Admin Checking List from tables
+11:04:39.563 [main] INFO  log4JProject.Log4JProjectClass - Admin matching both results
+11:05:11.429 [main] INFO  log4JProject.Log4JProjectClass - --------------------------------------------------------------------------
+11:05:11.430 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------ListedVehicles----------------------------
+11:05:11.430 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------------------------------------------------------
+11:05:11.950 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Details
+11:05:12.136 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBorad link 
+11:05:12.176 [main] INFO  log4JProject.Log4JProjectClass - Admin getting listed vehicle details
+11:05:12.417 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Vehicle Link
+11:05:12.695 [main] INFO  log4JProject.Log4JProjectClass - Admin Clicked on Manage Vehicle Tab
+11:05:12.714 [main] INFO  log4JProject.Log4JProjectClass - Admin Checking List from tables
+11:05:12.714 [main] INFO  log4JProject.Log4JProjectClass - Admin matching both results
+11:24:55.007 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------------------------------------------------
+11:24:55.009 [main] INFO  log4JProject.Log4JProjectClass - ----------------------------ListedBrands-----------------------------------
+11:24:55.009 [main] INFO  log4JProject.Log4JProjectClass - ---------------------------------------------------------------------------
+11:24:55.755 [main] INFO  log4JProject.Log4JProjectClass - Admin Login Setup
+11:24:55.938 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on DashBoard
+11:24:55.976 [main] INFO  log4JProject.Log4JProjectClass - admin Click on ListedBrands under DashBoard
+11:24:56.207 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on Brands Link on navigation
+11:24:56.514 [main] INFO  log4JProject.Log4JProjectClass - Admin Click on ManageBrands link under BrandsLink
+11:24:56.550 [main] ERROR log4JProject.Log4JProjectClass - Admin expected result of Brand names are negative 
+11:24:56.812 [main] INFO  log4JProject.Log4JProjectClass - Got the no. of brands on page1
+11:24:57.119 [main] INFO  log4JProject.Log4JProjectClass - Got the no. of brands on page2

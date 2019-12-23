@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.mycompany.rental.regression.AdminPostVehicle">
+      <class name="com.mycompany.rental.regression.AdminListedVehicles">
         <methods>
-          <include name="Adminsignin"/>
+          <include name="AdminListedVehicles"/>
         </methods>
-      </class> <!-- com.mycompany.rental.regression.AdminPostVehicle -->
+      </class> <!-- com.mycompany.rental.regression.AdminListedVehicles -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

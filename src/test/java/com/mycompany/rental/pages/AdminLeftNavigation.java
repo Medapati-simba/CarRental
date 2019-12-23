@@ -11,10 +11,7 @@ public class AdminLeftNavigation {
 		this.driver = driver;
 	}
 	
-	//Dashboard link on left navigation
-	public WebElement getDashboardLink() {
-		return driver.findElement(By.xpath("//a[contains(text(),'Dashboard')]"));
-	}
+	
 	// Create Brand
 	
 //	 WebElement Brands = driver.findElement(By.xpath("//a[@class='parent'][contains(text(),'Brands')]"));
@@ -30,6 +27,11 @@ public class AdminLeftNavigation {
 	public WebElement getCreateBrandLink() {
 		return driver.findElement(By.xpath("//a[contains(text(),'Create Brand')]"));
 	}
+	
+	// Manage Brands Link under Brands link under navigation
+	public WebElement getManageBrands() {
+		return driver.findElement(By.xpath("//a[@href='manage-brands.php'][contains(text(),'Manage Brands')]"));
+	}
 	// Vehicles link on left navigation
 	public WebElement getVehiclesLink() {
 		return driver.findElement(By.xpath("//a[@class='parent'][contains(text(),'Vehicles')]"));	
@@ -38,7 +40,42 @@ public class AdminLeftNavigation {
 	public WebElement getPostVehicleLink() {
 		return driver.findElement(By.xpath("//a[contains(text(),'Post a Vehicle')]"));
 	}
-	
+	// Create Manage Vehicle Link under Vehicle Tab
+	public WebElement getManageVehicleLink() {
+		return  driver.findElement(By.xpath(("//a[@href='manage-vehicles.php'][contains(text(),'Manage Vehicles')]")));
+	}
+	// ManageBookings Link on left navigation 
+	public WebElement getManageBooking() {
+		return driver.findElement(By.xpath("//a[@href='manage-bookings.php'][contains(text(),' Manage Booking')]"));
+	}
+	 // DashBoard Link on left navigation
+	public WebElement getDashboardLink() {
+		return driver.findElement(By.xpath("//a[contains(text(),'Dashboard')]"));
+	}
+	 // RegUsers Link on left navigation
+	public WebElement getRegUsersLink() {
+		return driver.findElement(By.xpath("//a[contains(text(),'Reg Users')]"));
+	}
+	// Testmonials link on left navigation
+	public WebElement getManageTestmonials() {
+		return driver.findElement(By.xpath("//a[contains(text(),' Manage Testimonials')]"));
+	}
+	//  Manage Conatctus Query link on left navigation
+	public WebElement getmanageQueries() {
+		return driver.findElement(By.xpath("//a[contains(text(),' Manage Conatctus Query')]"));
+	}
+	// Update Contact Info on Left navigation
+	public WebElement getUpdateContactLink() {
+		return driver.findElement(By.xpath("//a[@href='update-contactinfo.php']"));
+	}
+	// Manage Pages on left navigation
+	public WebElement getManagePages() {
+		return driver.findElement(By.xpath("//a[@href='manage-pages.php']"));
+	}
+	// Manage subscribers on left navigation
+	public WebElement getManagesubscribers() {
+		return driver.findElement(By.xpath("//a[@href='manage-subscribers.php'][contains(text(),' Manage Subscribers')]"));
+	}
 	
 	// Select Brand
 //	WebElement SelectBrand = driver.findElement(By.xpath("//span[contain(text(),'filter-option pull-left']"));
